@@ -33,3 +33,6 @@ vagrant-box> psql -U postgres -W -h 127.0.0.1
 postgres=# 
 ```
 
+# Resources
+- [PostgreSQL GUI Tools](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)
+- [pgAdmin](https://www.pgadmin.org/)
